@@ -3,4 +3,4 @@
 ##### opencv-python | mediapipe | numpy
 
 #### Implemented Alphabets : A, S, L, D, C
-#### Implemented Gestures: 'Thank You', 'Love'
+#### Implemented Gestures: 'Stop', 'Like', 'Dislike', 'Victory', 'Okay', 'I Love You', 'Thank You', 'Love'
