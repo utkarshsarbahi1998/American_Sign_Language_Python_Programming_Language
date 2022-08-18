@@ -1,4 +1,4 @@
-### American Sign Language | Python Programming Language
+## American Sign Language | Python Programming Language
 
 ##### opencv-python | mediapipe | numpy
 
