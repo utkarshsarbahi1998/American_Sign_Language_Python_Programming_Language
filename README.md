@@ -1,4 +1,6 @@
-## American Sign Language | Python Programming Language
+# American Sign Language | Python Programming Language
+
+## RMIT Accessibility Design Competition 2022 | Global Health Hackathon
 
 ##### opencv-python | mediapipe | numpy
 
