@@ -1,2 +1,6 @@
-# American_Sign_Language_Python_Programming_Language
-American_Sign_Language_Python_Programming_Language
+### American Sign Language | Python Programming Language
+
+##### opencv-python | mediapipe | numpy
+
+#### Implemented Alphabets : A, S, L, D, C
+#### Implemented Gestures: 'Thank You', 'Love'
